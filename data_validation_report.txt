@@ -1,0 +1,5 @@
+Data Validation Report
+
+Number of price violations: 0
+Number of host_id violations: 0
+Number of minimum_nights violations: 0
